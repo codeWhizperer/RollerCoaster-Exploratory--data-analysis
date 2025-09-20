@@ -9,16 +9,16 @@ The goal is to clean the data, explore trends, and visualize interesting pattern
 
 The dataset (`coaster.csv`) contains information about over 1,000 roller coasters, including:
 
-- **Coaster_Name** – name of the roller coaster  
-- **Location** – where it is located  
-- **Status** – whether it’s operating, closed, or under construction  
-- **Manufacturer** – company that built the coaster  
-- **Year_Introduced** – year the coaster opened  
-- **Type** – construction type (wood, steel, launched, etc.)  
-- **Speed_mph** – maximum speed  
-- **Height_ft** – maximum height  
-- **Inversions** – number of upside-down elements  
-- **Gforce** – maximum G-force experienced  
+- **Coaster_Name** : name of the roller coaster  
+- **Location** : where it is located  
+- **Status** : whether it’s operating, closed, or under construction  
+- **Manufacturer** : company that built the coaster  
+- **Year_Introduced** : year the coaster opened  
+- **Type** : construction type (wood, steel, launched, etc.)  
+- **Speed_mph** : maximum speed  
+- **Height_ft** : maximum height  
+- **Inversions** : number of upside-down elements  
+- **Gforce** : maximum G-force experienced  
 
 ---
 
@@ -53,8 +53,8 @@ The dataset (`coaster.csv`) contains information about over 1,000 roller coaster
 ---
 
 ## 🛠️ Tech Stack
-- **Python** (Pandas, NumPy) – data wrangling  
-- **Matplotlib & Seaborn** – data visualization  
+- **Python** (Pandas, NumPy) : data wrangling  
+- **Matplotlib & Seaborn** : data visualization  
 
 ---
 
